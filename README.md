@@ -80,14 +80,6 @@ O Chronos Pomodoro segue um padrão inteligente de ciclos:
 - **Ciclos Pares**: Descanso curto
 - **Ciclo 8**: Descanso longo (reseta o ciclo completo)
 
-## 📝 Licença
 
-Este projeto é de código aberto e está disponível sob a licença MIT.
-
-## 👨‍💻 Desenvolvido por
-
-Desenvolvido como parte de um curso da Udemy.
-
----
 
 **Foco total, sem pressa, sem pausa, só vai!** 💪🧘‍♂️
